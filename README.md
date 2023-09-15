@@ -1,2 +1,7 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Desafio proposto:
+    1) Criar classe pessoa
+    2) Ler dados do terminal
+    3) Tratar exceções
+    4)Calcular IMC
+    5)Printar na tela o resultado do cálculo
+    6)Testes
